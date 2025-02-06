@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Engin
 
-<!--
-**casab/casab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Senior Backend Engineer | Rust & Python Enthusiast | Endurance Athlete**  
 
-Here are some ideas to get you started:
+- 🚀 **7+ years of experience** building high-performance, scalable backend systems in **Python, Golang, and Rust**.  
+- ⚙️ Skilled in **microservices, data pipelines, real-time analytics, and system optimization**.  
+- 🔍 Passionate about **Rust**, currently deepening my expertise while leveraging my strong Python and Golang background.  
+- 📝 Writing on my [blog](https://engin.al) about **tech, system design and performance engineering**.  
+- 🏃 Endurance athlete: **Marathon runner, long-distance cyclist, and multi-instrumentalist musician**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack  
+🔹 **Languages:** Python, Golang, Rust, C  
+🔹 **Databases:** PostgreSQL, ClickHouse, Redis, MongoDB  
+🔹 **Technologies:** Kafka, Airflow, Docker, Kubernetes  
+🔹 **Frameworks:** Django, FastAPI, Cube.js
+
+### 📬 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/enginal) 
+![Twitter Follow](https://img.shields.io/twitter/follow/etikmaske?style=social)
