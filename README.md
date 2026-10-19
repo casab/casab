@@ -2,10 +2,9 @@
 
 💡 **Senior Backend Engineer | Rust & Python Enthusiast | Endurance Athlete**  
 
-- 🚀 **7+ years of experience** building high-performance, scalable backend systems in **Python, Golang, and Rust**.  
+- 🚀 **9+ years of experience** building high-performance, scalable backend systems in **Python, Golang, and Rust**.  
 - ⚙️ Skilled in **microservices, data pipelines, real-time analytics, and system optimization**.  
 - 🔍 Passionate about **Rust**, currently deepening my expertise while leveraging my strong Python and Golang background.  
-- 📝 Writing on my [blog](https://engin.al) about **tech, system design and performance engineering**.  
 - 🏃 Endurance athlete: **Marathon runner, long-distance cyclist, and multi-instrumentalist musician**.  
 
 ### ⚡ Tech Stack  
